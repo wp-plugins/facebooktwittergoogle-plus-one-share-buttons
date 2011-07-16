@@ -24,7 +24,9 @@ For more information,refer to <strong>http://www.92app.com/wordpress-plugins/fac
 
 == Frequently Asked Questions ==
 =Why doesn't show the share buttons after Page content(and Homepage)? =
+
 The Javascript required is embedded in the footer of your webpage,even so,to download these JS can waste 1-2 seconds, so I srongly recommend displaying these kind of social share buttons only in posts. Never think about displaying theme on HomePage,that is very scaring...
+
 
 =What if I really want to add the buttons after Page Contens? =
 It is not recommended as explained above,but if you really want to do so, simply find <strong>if(is_single())</strong> in Facebook_Twitter_Google_plus-one_Share_Buttons.php file, there are two.

@@ -39,7 +39,7 @@ function socialbutton($content) {
 if(is_single()) {
 $content.= '<div class="" style="padding-right:10px;float:right;"><g:plusone size="standard" count="true"></g:plusone></div>
 <div class="" style="float:left;padding-right:10px;"><a name="fb_share" href="http://www.facebook.com/sharer.php">Share</a></div>
-<div class="" style="padding-right:10px;"><a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal">Tweet</a></div>'; 
+<div class="" style="padding-right:10px;"><a name="twitter_share" href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal">Tweet</a></div>'; 
 }
 return $content;
 }

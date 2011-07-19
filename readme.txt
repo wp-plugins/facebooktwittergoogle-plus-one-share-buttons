@@ -9,6 +9,8 @@ Stable tag: trunk
 == Description ==
 This simple yet easy-to-use plugin adds the most important social share buttons: facebook, twitter and google +1 (plus one) after post contents.
 
+Support me by introducing this plugin to your friends, or give me a high rate on WordPress.org .Thanks !
+
 Features:
 
 1. The Javascript required is embedded in the footer of your webpage,thus, doesn't affect your PageSpeed(As pagespeed affects Google PageRank, this plugin is SEO-friendly).

@@ -17,7 +17,7 @@ Features:
 
 2. Only show share buttons after post contents.(See FAQs for why don't show buttons on Page and HomePage)
 
-For more information,refer to <strong>http://www.92app.com/wordpress-plugins/facebook-twitter-google-plus-one-share-buttons</strong>
+For more information,refer to <a title="Facebook,Twitter,Google plus one Share Buttons by Jeriff Cheng" href="http://www.92app.com/wordpress-plugins/facebook-twitter-google-plus-one-share-buttons" target="_blank">Facebook,Twitter,Google plus one Share Buttons Doc </a>
 
 == Installation ==
 1.  Upload the full directory into your wp-content/plugins directory

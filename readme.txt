@@ -9,7 +9,7 @@ Stable tag: trunk
 == Description ==
 This simple yet easy-to-use plugin adds the most important social share buttons: facebook, twitter and google +1 (plus one) after post contents.
 
-Support me by introducing this plugin to your friends, or give me a high rate on WordPress.org .Thanks !
+Support me by introducing this plugin to your friends, or give me a high rate on WordPress.org.Thanks !
 
 Features:
 
@@ -17,7 +17,7 @@ Features:
 
 2. Only show share buttons after post contents.(See FAQs for why don't show buttons on Page and HomePage)
 
-For more information,refer to <a title="Facebook,Twitter,Google plus one Share Buttons by Jeriff Cheng" href="http://www.92app.com/wordpress-plugins/facebook-twitter-google-plus-one-share-buttons" target="_blank">Facebook,Twitter,Google plus one Share Buttons Doc </a>
+For more information,refer to <a title="Facebook,Twitter,Google plus one Share Buttons by Jeriff Cheng" href="http://www.92app.com/wordpress-plugins/facebook-twitter-google-plus-one-share-buttons" target="_blank">Facebook,Twitter,Google plus one Share Buttons Doc </a>(Please click the advertisement on the upper right of my blog, this is a way to "donate" to me,Thanks!)
 
 == Installation ==
 1.  Upload the full directory into your wp-content/plugins directory

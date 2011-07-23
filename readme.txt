@@ -23,14 +23,12 @@ For more information,refer to <a title="Facebook,Twitter,Google plus one Share B
 1.  Upload the full directory into your wp-content/plugins directory
 2.  Activate the plugin at the plugin administration page
 3.  That's it!
-
 == Frequently Asked Questions ==
-=Why doesn't show the share buttons after Page content(and Homepage)? =
+=<strong>1. Why doesn't show the share buttons after Page content(and Homepage)?</strong> =
 
 The Javascript required is embedded in the footer of your webpage,even so,to download these JS can waste 1-2 seconds, so I srongly recommend displaying these kind of social share buttons only in posts. Never think about displaying theme on HomePage,that is very scaring...
 
-
-=What if I really want to add the buttons after Page Contens? =
+=<strong>2. What if I really want to add the buttons after Page Contens?</strong> =
 It is not recommended as explained above,but if you really want to do so, simply find <strong>if(is_single())</strong> in Facebook_Twitter_Google_plus-one_Share_Buttons.php file, there are two.
 
 1. To display buttons after page contentd,change them to <strong>if(is_single()||is_page())</strong>
@@ -41,11 +39,17 @@ It is not recommended as explained above,but if you really want to do so, simply
 
 Learn more about <a href="http://codex.wordpress.org/Conditional_Tags" target="_blank">Wordpress Conditional Tags</a>.
 
-=Why don't you add more buttons, three is not enough =
+=<strong>3.Why don't you add more buttons, three is not enough</strong> =
 
 Well,haven't you seen the plugin's name? Simple is good.
 
-For more information,refer to http://www.92app.com/wordpress-plugins/facebook-twitter-google-plus-one-share-buttons
+For more information,refer to <a title="Facebook,Twitter,Google plus one Share Buttons by Jeriff Cheng" href="../wordpress-plugins/facebook-twitter-google-plus-one-share-buttons">Facebook,Twitter,Google plus one Share Buttons Doc</a>
+
+=<strong>4.Upon activating the plugin, it shows text links,not buttons</strong>=
+
+Upon activating the plug I only see text links beneath each post saying "Share" and "Tweet". I don't see any settings page for this plugin. Am I missing something?
+
+You must be from China. GWF has prevent the buttons from appearing normally. Maybe you should use a VPN or other proxy.
 
 == Screenshots ==
 1. Facebook,Twitter,Google plus one Share Buttons after post contents

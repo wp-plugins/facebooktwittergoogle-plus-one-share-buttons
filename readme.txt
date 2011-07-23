@@ -43,13 +43,13 @@ Learn more about <a href="http://codex.wordpress.org/Conditional_Tags" target="_
 
 Well,haven't you seen the plugin's name? Simple is good.
 
-For more information,refer to <a title="Facebook,Twitter,Google plus one Share Buttons by Jeriff Cheng" href="../wordpress-plugins/facebook-twitter-google-plus-one-share-buttons">Facebook,Twitter,Google plus one Share Buttons Doc</a>
-
 =<strong>4.Upon activating the plugin, it shows text links,not buttons</strong>=
 
 Upon activating the plug I only see text links beneath each post saying "Share" and "Tweet". I don't see any settings page for this plugin. Am I missing something?
 
 You must be from China. GWF has prevent the buttons from appearing normally. Maybe you should use a VPN or other proxy.
+
+For more information,refer to <a title="Facebook,Twitter,Google plus one Share Buttons by Jeriff Cheng" href="http://www.92app.com/wordpress-plugins/facebook-twitter-google-plus-one-share-buttons">Facebook,Twitter,Google plus one Share Buttons Doc</a>
 
 == Screenshots ==
 1. Facebook,Twitter,Google plus one Share Buttons after post contents

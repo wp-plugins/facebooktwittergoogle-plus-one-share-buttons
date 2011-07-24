@@ -37,8 +37,6 @@ It is not recommended as explained above,but if you really want to do so, simply
 
 3. To display buttons on Posts, pages and Homepage,change them to <strong>if(is_single()||is_page()||is_home())</strong>
 
-Learn more about <a href="http://codex.wordpress.org/Conditional_Tags" target="_blank">Wordpress Conditional Tags</a>.
-
 =<strong>3.Why don't you add more buttons, three is not enough</strong> =
 
 Well,haven't you seen the plugin's name? Simple is good.

@@ -31,17 +31,15 @@ The Javascript required is embedded in the footer of your webpage,even so,to dow
 =<strong>2. What if I really want to add the buttons after Page Contens?</strong> =
 It is not recommended as explained above,but if you really want to do so, simply find <strong>if(is_single())</strong> in Facebook_Twitter_Google_plus-one_Share_Buttons.php file, there are two.
 
-1. To display buttons after page contentd,change them to <strong>if(is_single()||is_page())</strong>
+    1.To display buttons after posts and pages, change them to if(is_single()||is_page())
+	
+    2.To display buttons after posts and Homepage, change them to if(is_single()||is_home())
+	
+    3.To display buttons after posts, pages and Homepage, change them to if(is_single()||is_page()||is_home())
+	
+    4.To display buttons after posts and categories, change them to if(is_single()||is_category())
 
-2. To display buttons on Homepage, change them to <strong>if(is_single()||is_home())</strong>
-
-3. To display buttons on Posts, pages and Homepage,change them to <strong>if(is_single()||is_page()||is_home())</strong>
-
-=<strong>3.Why don't you add more buttons, three is not enough</strong> =
-
-Well,haven't you seen the plugin's name? Simple is good.
-
-=<strong>4.Upon activating the plugin, it shows text links,not buttons</strong>=
+=<strong>3.Upon activating the plugin, it shows text links,not buttons</strong>=
 
 Upon activating the plug I only see text links beneath each post saying "Share" and "Tweet". I don't see any settings page for this plugin. Am I missing something?
 

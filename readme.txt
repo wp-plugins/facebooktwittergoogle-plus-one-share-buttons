@@ -1,6 +1,6 @@
 === Facebook,Twitter,Google plus one Share Buttons ===
 Contributors: Jeriff Cheng
-Donate link: http://www.92app.com
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FUYPGH626DA34
 Tags: facebook,twitter,google +1(plus one) button,google plus one,facebook share,twitter share
 Requires at least: 2.8+
 Tested up to: 3.2.1

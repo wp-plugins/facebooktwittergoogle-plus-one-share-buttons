@@ -1,23 +1,25 @@
 === Facebook,Twitter,Google plus one Share Buttons ===
 Contributors: Jeriff Cheng
 Donate link: http://www.92app.com
-Tags: facebook,twitter,google +1(plus one) button,google plus one,facebook share,twitter share
+Tags: facebook,twitter,google +1(plus one) button,google plus one,facebook share,facebook like,twitter share
 Requires at least: 2.8+
 Tested up to: 3.2.1
 Stable tag: trunk
 
 == Description ==
-This simple yet easy-to-use plugin adds the most important social share buttons: facebook, twitter and google +1 (plus one) after post contents.
+This simple yet easy-to-use plugin adds the most important social share buttons: facebook, twitter and google +1 (plus one) after post contents. New version V1.1 adds the facebook like button.
 
-Support me by introducing this plugin to your friends, or give me a high rate on WordPress.org.Thanks !
+<strong>Support me by introducing this plugin to your friends, or give me a high rate on WordPress.org.Thanks !</strong>
 
-Features:
+<strong>Features:<strong>
 
 1. The Javascript required is embedded in the footer of your webpage,thus, doesn't affect your PageSpeed(As pagespeed affects Google PageRank, this plugin is SEO-friendly).
 
 2. Only show share buttons after post contents.(See FAQs for why don't show buttons on Page and HomePage)
 
-For more information,refer to <a title="Facebook,Twitter,Google plus one Share Buttons by Jeriff Cheng" href="http://www.92app.com/wordpress-plugins/facebook-twitter-google-plus-one-share-buttons" target="_blank">Facebook,Twitter,Google plus one Share Buttons Doc </a>(Please click the advertisement on the upper right of my blog, this is a way to "donate" to me,Thanks!)
+For more information,refer to <a title="Facebook,Twitter,Google plus one Share Buttons by Jeriff Cheng" href="http://www.92app.com/wordpress-plugins/facebook-twitter-google-plus-one-share-buttons" target="_blank">Facebook,Twitter,Google plus one Share Buttons Doc </a>
+
+Recommend another Plugin I made: <a href="http://wordpress.org/extend/plugins/author-box-after-posts/" target="_blank">Author Box After Posts</a>.Adds an author box after your post contents.The box contains author's avatar,name,post count,site link,personal description and Email.
 
 == Installation ==
 1.  Upload the full directory into your wp-content/plugins directory
@@ -52,10 +54,20 @@ For more information,refer to <a title="Facebook,Twitter,Google plus one Share B
 2. Facebook share pop-up window
 3. Twitter share pop-up window
 4. Google plus one pop-up window
+5. Add comment after you liked the post
 
 == Changelog ==
-= 1.0 =
+<strong>V1.0 -16.07.2011</strong>
+
 *First Version
 
+<strong>V1.1 -26.07.2011</strong>
+ <ul>
+	<li>NEW : Add Facebook like button</li>
+	<li>Changed : Change the horizontal style to vertical</li>
+	<li>Bugfix : Facebook Share Button doesn't  always display count(fixed)</li>
+</ul>
+
 == Upgrade Notice ==
-soon...
+<strong>V1.1 -26.07.2011</strong>
+This version fix a bug and add Facebook like button,recommend upgrading.

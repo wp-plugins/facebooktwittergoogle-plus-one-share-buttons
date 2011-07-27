@@ -53,7 +53,7 @@ $content.= '
 *{margin:0; padding:0;}
 ul{ list-style:none;}
 #socialbuttonnav {width:90%; overflow:hidden;margin:0 auto;}
-#socialbuttonnav li{overflow:hidden;width:60px; height:80px; line-height:30px; margin-right:1px; float:left; text-align:center;}
+#socialbuttonnav li{background:none;overflow:hidden;width:60px; height:80px; line-height:30px; margin-right:1px; float:left; text-align:center;}
 </style>
 <ul id="socialbuttonnav">
 <li><!-- Twitter--><div><a name="twitter_share" data-count="vertical" href="http://twitter.com/share" class="twitter-share-button" >Tweet</a></div></li>

@@ -2,6 +2,9 @@
 Contributors: Jeriff Cheng
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FUYPGH626DA34
 Tags: facebook,twitter,google +1(plus one) button,google plus one,facebook share,facebook like,twitter share
+Requires at least: 2.8+
+Tested up to: 3.2.1
+
 == Description ==
 This simple yet easy-to-use plugin adds the most important social share buttons: facebook, twitter and google +1 (plus one) after post contents. New version V1.1 adds the facebook like button.
 

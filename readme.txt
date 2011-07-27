@@ -13,7 +13,7 @@ This simple yet easy-to-use plugin adds facebook,twitter,google +1(plus one) and
 
 <strong>Features:<strong>
 
-1. All buttons can show counts.
+1. All buttons can show counts.(If you want to remove some buttons in V1.2, refer to <a title="Remove Button in Facebook,Twitter,Google plus one Share Buttons V1.2" href="http://www.92app.com/remove-button-in-facebooktwittergoogle-plus-one-share-buttons-v1-2.html" target="_blank">Remove Button in Facebook,Twitter,Google plus one Share Buttons V1.2</a> )
 
 2. The Javascript required is embedded in the footer of your webpage,thus, doesn't affect your PageSpeed(As pagespeed affects Google PageRank, this plugin is SEO-friendly).
 
@@ -55,6 +55,11 @@ You must be from China. GWF has prevent the buttons from appearing normally. May
 
 2. There are some conflict between this plugin and other plugins you use .(Deactivating other plugins on by one to check which one is the cause).
 
+=<strong>5.Remove Button in Facebook,Twitter,Google plus one Share Buttons V1.2</strong>=
+
+V1.2 got four extra buttons and you might want to remove them. As V1.2 hasn't got a <strong>Dashboard Option Page</strong>,so you have to edit the plugin and deal with the code.(I am now working on <strong>V1.3</strong>, this version will get a&nbsp;Dashboard Option Page).
+
+See Tutorials :<a title="Remove Button in Facebook,Twitter,Google plus one Share Buttons V1.2" href="http://www.92app.com/remove-button-in-facebooktwittergoogle-plus-one-share-buttons-v1-2.html" target="_blank">Remove Button in Facebook,Twitter,Google plus one Share Buttons V1.2</a>
 
 For more information,refer to <a title="Facebook,Twitter,Google plus one Share Buttons by Jeriff Cheng" href="http://www.92app.com/wordpress-plugins/facebook-twitter-google-plus-one-share-buttons">Facebook,Twitter,Google plus one Share Buttons Doc</a>
 

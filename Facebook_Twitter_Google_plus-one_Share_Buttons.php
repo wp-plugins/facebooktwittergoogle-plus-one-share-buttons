@@ -3,7 +3,7 @@
 Plugin Name: Facebook,Twitter,Google plus one Share Buttons
 Plugin URI: http://www.92app.com/wordpress-plugins/facebook-twitter-google-plus-one-share-buttons
 Description: This simple yet easy-to-use plugin adds facebook,twitter,google +1(plus one) and many other popular social sharing buttons after post contents,such as:Stumbleupon,Linkedin,Digg and Google Buzz.
-Version: 1.2
+Version: 1.2.1
 Author: Jeriff Cheng
 Author URI: http://www.92app.com/
 */
@@ -53,7 +53,9 @@ $content.= '
 *{margin:0; padding:0;}
 ul{ list-style:none;}
 #socialbuttonnav {width:90%; overflow:hidden;margin:0 auto;}
-#socialbuttonnav li{background:none;overflow:hidden;width:60px; height:80px; line-height:30px; margin-right:1px; float:left; text-align:center;}
+#socialbuttonnav li{background:none;overflow:hidden;width:65px; height:80px; line-height:30px; margin-right:2px; float:left; text-align:center;}
+#fb { text-align:center;border:none; }
+#fb iframe {text-align: center;float:left; }
 </style>
 <ul id="socialbuttonnav">
 <li><!-- Twitter--><div><a name="twitter_share" data-count="vertical" href="http://twitter.com/share" class="twitter-share-button" >Tweet</a></div></li>
@@ -62,7 +64,7 @@ ul{ list-style:none;}
 <li><!-- linkedin--><div><script type="in/share" data-counter="top"></script></div></li>
 <li><!-- digg--><div><a class="DiggThisButton DiggMedium" href="http://digg.com/submit?url="<?php the_permalink(); ?>"&amp;title="<?php the_title(); ?>""></a></div></li>
 <li><!-- Buzz--><div><a title="Post to Google Buzz" class="google-buzz-button" href="http://www.google.com/buzz/post" data-button-style="normal-count"></a></div></li>
-<li style="height:60px;margin-top:5px;"><!-- Facebook like--><div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#appId=220231561331594&amp;xfbml=1"></script><fb:like href="" send="false" layout="box_count" width="450" show_faces="false" font=""></fb:like></li>
+<li><!-- Facebook like--><div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#appId=220231561331594&amp;xfbml=1"></script><fb:like href="" send="false" layout="box_count" width="0" show_faces="false" font=""></fb:like></li>
 </ul>';
 }
 return $content;

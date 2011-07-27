@@ -85,6 +85,10 @@ For more information,refer to <a title="Facebook,Twitter,Google plus one Share B
 	<li>Changed : Remove the Facebook share buttons(Facebook will soon give up supporting the share buttons, they recommend the Like button)</li>
 </ul>
 
+=V1.2.1 -28.07.2011=
+
+*Fix Facebook like button compatibility issues with Chrome and Safari
+
 == Upgrade Notice ==
 
 =1.1=
@@ -92,3 +96,6 @@ This version fix a bug and add Facebook like button,recommend upgrading.
 
 =1.2=
 Add Stumbleupon,Linkedin,Digg,Google Buzz share buttons.Remove the facebook share buttons(Facebook will soon give up supporting the share buttons, they recommend the Like button)
+
+=1.2.1=
+Fix Facebook like button compatibility issues with Chrome and Safari

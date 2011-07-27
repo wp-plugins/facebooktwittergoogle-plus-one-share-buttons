@@ -17,7 +17,7 @@ This simple yet easy-to-use plugin adds facebook,twitter,google +1(plus one) and
 
 2. The Javascript required is embedded in the footer of your webpage,thus, doesn't affect your PageSpeed(As pagespeed affects Google PageRank, this plugin is SEO-friendly).
 
-3. Only show share buttons after post contents.(See FAQs for why don't show buttons on Page and HomePage)
+3. Only show share buttons after post contents by default.(See FAQs-2 for how to show buttons on Page or HomePage)
 
 For more information,refer to <a title="Facebook,Twitter,Google plus one Share Buttons by Jeriff Cheng" href="http://www.92app.com/wordpress-plugins/facebook-twitter-google-plus-one-share-buttons" target="_blank">Facebook,Twitter,Google plus one Share Buttons Doc </a>
 
@@ -51,7 +51,7 @@ You must be from China. GWF has prevent the buttons from appearing normally. May
 
 =<strong>4.I get some problem with the plugin after updating, I can¡¯t click on the buttons</strong>=
 
-1. Your WordPress theme is too old and doesn¡¯t support the new version .( Use the old version(V1.0) or find a similar plugin)
+1. Your WordPress theme is too old and doesn't support the new version .( Use the old version(V1.0) or find a similar plugin)
 
 2. There are some conflict between this plugin and other plugins you use .(Deactivating other plugins on by one to check which one is the cause).
 

@@ -4,7 +4,6 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: facebook,twitter,google +1(plus one) button,google plus one,facebook share,twitter share
 Requires at least: 2.8+
 Tested up to: 3.2.1
-Stable tag: trunk
 
 == Description ==
 This simple yet easy-to-use plugin adds the most important social share buttons: facebook, twitter and google +1 (plus one) after post contents.

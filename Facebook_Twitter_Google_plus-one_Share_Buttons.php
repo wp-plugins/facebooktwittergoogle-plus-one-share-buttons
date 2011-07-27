@@ -62,7 +62,7 @@ ul{ list-style:none;}
 <li><!-- linkedin--><div><script type="in/share" data-counter="top"></script></div></li>
 <li><!-- digg--><div><a class="DiggThisButton DiggMedium" href="http://digg.com/submit?url="<?php the_permalink(); ?>"&amp;title="<?php the_title(); ?>""></a></div></li>
 <li><!-- Buzz--><div><a title="Post to Google Buzz" class="google-buzz-button" href="http://www.google.com/buzz/post" data-button-style="normal-count"></a></div></li>
-<li><!-- Facebook like--><div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#appId=220231561331594&amp;xfbml=1"></script><fb:like href="" send="false" layout="box_count" width="450" show_faces="false" font=""></fb:like></li>
+<li style="height:60px;margin-top:5px;"><!-- Facebook like--><div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#appId=220231561331594&amp;xfbml=1"></script><fb:like href="" send="false" layout="box_count" width="450" show_faces="false" font=""></fb:like></li>
 </ul>';
 }
 return $content;

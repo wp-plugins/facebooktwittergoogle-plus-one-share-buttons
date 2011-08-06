@@ -21,7 +21,7 @@ This simple yet easy-to-use plugin adds facebook,twitter,google +1(plus one) and
 
 For more information,refer to <a title="Facebook,Twitter,Google plus one Share Buttons by Jeriff Cheng" href="http://www.92app.com/wordpress-plugins/facebook-twitter-google-plus-one-share-buttons" target="_blank">Facebook,Twitter,Google plus one Share Buttons Doc </a>
 
-My personal blog:<a href="www.92app.com" target="_blank">www.92app.com</a>
+My personal blog:<a href="http://www.92app.com" target="_blank">www.92app.com</a>
 
 == Installation ==
 1.  Upload the full directory into your wp-content/plugins directory

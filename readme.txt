@@ -13,7 +13,7 @@ This simple yet easy-to-use plugin adds facebook,twitter,google +1(plus one) and
 
 <strong>Features:<strong>
 
-1. All buttons can show counts.(If you want to remove some buttons in V1.2, refer to <a title="Remove Button in Facebook,Twitter,Google plus one Share Buttons V1.2" href="http://www.92app.com/remove-button-in-facebooktwittergoogle-plus-one-share-buttons-v1-2.html" target="_blank">Remove Button in Facebook,Twitter,Google plus one Share Buttons V1.2</a> )
+1. All buttons can show counts.
 
 2. The Javascript required is embedded in the footer of your webpage,thus, doesn't affect your PageSpeed(As pagespeed affects Google PageRank, this plugin is SEO-friendly).
 

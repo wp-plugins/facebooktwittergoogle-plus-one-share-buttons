@@ -1,7 +1,7 @@
 === Facebook,Twitter,Google plus one Share Buttons ===
 Contributors: Jeriff Cheng
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FUYPGH626DA34
-Tags: facebook,twitter,google +1(plus one) button,google plus one,facebook share,facebook like,twitter share,stumbleupon,linkedin,digg,Google Buzz
+Tags: facebook,twitter,google +1(plus one) button,google plus one,facebook share,facebook like,twitter share,stumbleupon,linkedin,digg
 Requires at least: 2.8+
 Tested up to: 3.2.1
 Stable tag: trunk
@@ -36,6 +36,7 @@ For FAQs and Bug report,refer to <a title="Facebook,Twitter,Google plus one Shar
 
 
 == Changelog ==
+
 =V1.0 -16.07.2011=
 
 *First Version
@@ -67,3 +68,7 @@ Add Stumbleupon,Linkedin,Digg,Google Buzz share buttons.Remove the facebook shar
 
 =1.2.1=
 Fix Facebook like button compatibility issues with Chrome and Safari
+
+=1.2.2=
+Remove buzz button,google has stopped buzz service
+Add facebook share button again.

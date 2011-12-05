@@ -29,7 +29,7 @@ My personal blog:<a rel="follow" href="http://www.92app.com" target="_blank">www
 3.  That's it!
 
 == Frequently Asked Questions ==
-For FAQs and Bug report,refer to <a title="Facebook,Twitter,Google plus one Share Buttons by Jeriff Cheng" href="http://www.92app.com/wordpress-plugins/facebook-twitter-google-plus-one-share-buttons">Facebook,Twitter,Google plus one Share Buttons Doc</a>
+For FAQs and Bug report,refer to <a rel="follow" title="Facebook,Twitter,Google plus one Share Buttons by Jeriff Cheng" href="http://www.92app.com/wordpress-plugins/facebook-twitter-google-plus-one-share-buttons">Facebook,Twitter,Google plus one Share Buttons Doc</a>
 
 == Screenshots ==
 1. Facebook,Twitter,Google plus one and many other popular social sharing buttons after post contents

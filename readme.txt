@@ -1,27 +1,24 @@
 === Facebook,Twitter,Google plus one Share Buttons ===
 Contributors: Jeriff Cheng
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FUYPGH626DA34
-Tags: facebook,twitter,google +1(plus one) button,google plus one,facebook share,facebook like,twitter share,stumbleupon,linkedin,digg
+Tags: pinterest,facebook,twitter,google +1,google plus one,digg
 Requires at least: 2.8+
-Tested up to: 3.2.1
+Tested up to: 3.3.1
 Stable tag: trunk
 
 == Description ==
-This simple yet easy-to-use plugin adds facebook,twitter,google +1(plus one) and many other popular social sharing buttons after post contents,such as:Stumbleupon,Linkedin and Digg.
-
-<strong>Support me by introducing this plugin to your friends, or give me a high rate on WordPress.org.Thanks !</strong>
+Facebook Like & Share,Twitter,Google +,Pinterest,Digg Buttons after post contents.
 
 <strong>Features:<strong>
 
-1. All buttons can show counts.
+1. Smart Pinterest share, allows you to set the image or get the first image automatically
 
-2. The Javascript required is embedded in the footer of your webpage,thus, doesn't affect your PageSpeed(As pagespeed affects Google PageRank, this plugin is SEO-friendly).
+2. All buttons can show counts.
 
-3. Only show share buttons after post contents by default.(See FAQs-2 for how to show buttons on Page or HomePage)
+3. Show buttons after post contents by default.(See FAQs-2 for how to show buttons elsewhere)
 
 For more information,refer to <a title="Facebook,Twitter,Google plus one Share Buttons by Jeriff Cheng" rel="follow" href="http://www.92app.com/wordpress-plugins/facebook-twitter-google-plus-one-share-buttons" target="_blank">Facebook,Twitter,Google plus one Share Buttons Doc </a>
 
-My personal blog:<a rel="follow" href="http://www.92app.com" target="_blank">www.92app.com</a>
+My blog:<a rel="follow" href="http://www.92app.com" target="_blank">www.92app.com</a>
 
 == Installation ==
 1.  Upload the full directory into your wp-content/plugins directory
@@ -32,11 +29,13 @@ My personal blog:<a rel="follow" href="http://www.92app.com" target="_blank">www
 For FAQs and Bug report,refer to <a rel="follow" title="Facebook,Twitter,Google plus one Share Buttons by Jeriff Cheng" href="http://www.92app.com/wordpress-plugins/facebook-twitter-google-plus-one-share-buttons">Facebook,Twitter,Google plus one Share Buttons Doc</a>
 
 == Screenshots ==
-1. Facebook,Twitter,Google plus one and many other popular social sharing buttons after post contents
+1. Social Share Buttons after post
 
+2. Set custom fields 'p-img' as Pinterest image
+
+3. Successfully fetch the image set above
 
 == Changelog ==
-
 =V1.0 -16.07.2011=
 
 *First Version
@@ -58,7 +57,9 @@ For FAQs and Bug report,refer to <a rel="follow" title="Facebook,Twitter,Google 
 
 *Fix Facebook like button compatibility issues with Chrome and Safari
 
-== Upgrade Notice ==
+=V1.3.0 -09.03.2012=
+
+*NEW: Smart Pinterest button added 
 
 =1.1=
 This version fix a bug and add Facebook like button,recommend upgrading.
@@ -72,3 +73,7 @@ Fix Facebook like button compatibility issues with Chrome and Safari
 =1.2.2=
 Remove buzz button,google has stopped buzz service
 Add facebook share button again.
+
+=V1.3.0=
+NEW: Smart Pinterest button added 
+Remove Linkedin and Stumbleupon button(rarely used and affect page load time)

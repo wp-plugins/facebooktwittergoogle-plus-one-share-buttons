@@ -60,20 +60,5 @@ For FAQs and Bug report,refer to <a rel="follow" title="Facebook,Twitter,Google 
 =V1.3.0 -09.03.2012=
 
 *NEW: Smart Pinterest button added 
+*Remove Linkedin and Stumbleupon button(rarely used and affect page load time)
 
-=1.1=
-This version fix a bug and add Facebook like button,recommend upgrading.
-
-=1.2=
-Add Stumbleupon,Linkedin,Digg,Google Buzz share buttons.Remove the facebook share buttons(Facebook will soon give up supporting the share buttons, they recommend the Like button)
-
-=1.2.1=
-Fix Facebook like button compatibility issues with Chrome and Safari
-
-=1.2.2=
-Remove buzz button,google has stopped buzz service
-Add facebook share button again.
-
-=V1.3.0=
-NEW: Smart Pinterest button added 
-Remove Linkedin and Stumbleupon button(rarely used and affect page load time)

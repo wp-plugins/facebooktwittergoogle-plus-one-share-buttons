@@ -20,6 +20,13 @@ For more information,refer to <a title="Facebook,Twitter,Google plus one Share B
 
 My blog:<a rel="follow" href="http://www.92app.com" target="_blank">www.92app.com</a>
 
+<h4>Other WordPress Plugins I created:</h4>
+<ul>
+	<li><a rel="follow" href="http://www.92app.com/wordpress-plugins/author-box-after-posts" target="_blank">Author Box After Posts</a> :Adds an author box after your post contents.</li>
+	<li><a rel="follow" target="_blank" href="http://www.92app.com/wordpress-plugins/easy-smooth-scroll-links" title="Easy Smooth Scroll Links WordPress Plugin">Easy Smooth Scroll Links</a> :Adds smoth scrollling effect to "Page Anchors".</li>
+	<li><a rel="follow" target="_blank" href="http://www.92app.com/wordpress-plugins/nofollow-internal-links" title="Nofollow Internal Links WordPress Plugin">Nofollow Internal Links</a> :Adds the "nofollow" rel attribute to internal links</li>
+</ul>
+
 == Installation ==
 1.  Upload the full directory into your wp-content/plugins directory
 2.  Activate the plugin at the plugin administration page

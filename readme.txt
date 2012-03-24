@@ -10,11 +10,11 @@ Facebook Like & Share,Twitter,Google +,Pinterest,Digg Buttons after post content
 
 <strong>Features:<strong>
 
-1. Smart Pinterest share, allows you to set the image or get the first image automatically
+* Smart Pinterest share, allows you to set the image or get the first image automatically
 
-2. All buttons can show counts.
+* All buttons can show counts.
 
-3. Show buttons after post contents by default.(See FAQs-2 for how to show buttons elsewhere)
+* Show buttons after post contents by default.(See FAQs-2 for how to show buttons elsewhere)
 
 For more information,refer to <a title="Facebook,Twitter,Google plus one Share Buttons by Jeriff Cheng" rel="follow" href="http://www.92app.com/wordpress-plugins/facebook-twitter-google-plus-one-share-buttons" target="_blank">Facebook,Twitter,Google plus one Share Buttons Doc </a>
 
@@ -28,9 +28,9 @@ My blog:<a rel="follow" href="http://www.92app.com" target="_blank">www.92app.co
 </ul>
 
 == Installation ==
-1.  Upload the full directory into your wp-content/plugins directory
-2.  Activate the plugin at the plugin administration page
-3.  That's it!
+1.Upload the full directory into your wp-content/plugins directory
+1.Activate the plugin at the plugin administration page
+1.That's it!
 
 == Frequently Asked Questions ==
 For FAQs and Bug report,refer to <a rel="follow" title="Facebook,Twitter,Google plus one Share Buttons by Jeriff Cheng" href="http://www.92app.com/wordpress-plugins/facebook-twitter-google-plus-one-share-buttons">Facebook,Twitter,Google plus one Share Buttons Doc</a>
@@ -43,6 +43,7 @@ For FAQs and Bug report,refer to <a rel="follow" title="Facebook,Twitter,Google 
 3. Successfully fetch the image set above
 
 == Changelog ==
+
 =V1.0 -16.07.2011=
 
 *First Version

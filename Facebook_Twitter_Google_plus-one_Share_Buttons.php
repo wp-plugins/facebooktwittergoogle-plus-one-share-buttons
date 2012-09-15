@@ -2,7 +2,7 @@
 /*
 Plugin Name: Facebook,Twitter,Google plus one Share Buttons
 Plugin URI: http://www.92app.com/wordpress-plugins/facebook-twitter-google-plus-one-share-buttons
-Description: Facebook Like,Twitter,Google +,Pinterest,Linkedin,StumbleuponButtons after post contents.
+Description: Facebook Like, Twitter, Google +, Pinterest, Linkedin, Stumbleupon Buttons after post contents.
 Version: 1.3.1
 Author: Jeriff Cheng
 Author URI: http://www.92app.com/

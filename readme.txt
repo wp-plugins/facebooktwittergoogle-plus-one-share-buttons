@@ -6,7 +6,7 @@ Tested up to: 3.3.1
 Stable tag: trunk
 
 == Description ==
-Facebook Like & Share,Twitter,Google +,Pinterest,Digg Buttons after post contents.
+Facebook Like,Twitter,Google +,Pinterest,Linkedin,StumbleuponButtons after post contents.
 
 <strong>Features:<strong>
 
@@ -68,10 +68,12 @@ For FAQs and Bug report,refer to <a rel="follow" title="Facebook,Twitter,Google 
 =V1.3.0 -09.03.2012=
 
 *NEW: Smart Pinterest button added 
+
 *Remove Linkedin and Stumbleupon button(rarely used and affect page load time)
 
 =V1.3.1 -15.09.2012=
 
 *Add Linkedin and Stumbleupon button(rarely used and affect page load time)
+
 *Remove Facebook Share button and Digg button, no longer supported by official
 

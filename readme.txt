@@ -73,7 +73,7 @@ For FAQs and Bug report,refer to <a rel="follow" title="Facebook,Twitter,Google 
 
 =V1.3.1 -15.09.2012=
 
-*Add Linkedin and Stumbleupon button(rarely used and affect page load time)
+*Add Linkedin and Stumbleupon button
 
 *Remove Facebook Share button and Digg button, no longer supported by official
 

@@ -2,8 +2,8 @@
 /*
 Plugin Name: Facebook,Twitter,Google plus one Share Buttons
 Plugin URI: http://www.92app.com/wordpress-plugins/facebook-twitter-google-plus-one-share-buttons
-Description: Facebook Like & Share,Twitter,Google +,Pinterest,Digg Buttons after post contents.
-Version: 1.3.0
+Description: Facebook Like,Twitter,Google +,Pinterest,Linkedin,StumbleuponButtons after post contents.
+Version: 1.3.1
 Author: Jeriff Cheng
 Author URI: http://www.92app.com/
 */
@@ -25,14 +25,14 @@ Author URI: http://www.92app.com/
 
 		/*
 		Contents:
-		1.Head js: Pinterest,Google + ,Digg
-		2.Footer js: Twitter,Facebook Share
+		1.Head js: Pinterest,Google + 
+		2.Footer js: Twitter,Linkedin
 		3.Get the Image for Pinterest
 		4.Display the Social Share Buttons
 		*/
 
 ################################################################
-##### 1. Head js: Pinterest,Google +, Digg#####################
+##### 1. Head js: Pinterest,Google +#####################
 ################################################################
 function FTGSB_head() {
 if (is_single()) { ?> 
@@ -65,26 +65,17 @@ po.src = 'https://apis.google.com/js/plusone.js';
 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
 })();
 </script>
-<script type="text/javascript">
-(function() {
-var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];
-s.type = 'text/javascript';
-s.async = true;
-s.src = 'http://widgets.digg.com/buttons.js';
-s1.parentNode.insertBefore(s, s1);
-})();
-</script>
 <?php }
  }
 add_action('wp_head', 'FTGSB_head',20);
 
 ################################################################
-############2.Footer js: Twitter,Facebook Share#################
+############2.Footer js: Twitter,linkedin Share#################
 ################################################################
 function FTGSB_footer() {
 	if (is_single()) { ?> 
 		<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
-		<script type="text/javascript" src="<?php echo get_option('siteurl') . '/' . PLUGINDIR . '/' . dirname(plugin_basename (__FILE__))?>/FB.Share" ></script>
+		<script src="http://platform.linkedin.com/in.js" type="text/javascript"></script>
 	<?php }
  }
 add_action('wp_footer', 'FTGSB_footer');
@@ -121,16 +112,16 @@ function FTGSB($content) {
 if(is_single()) {
 global $post, $posts;
 $content.= '
-<style>#socialbuttonnav li{list-style:none;overflow:hidden;margin:0 auto;background:none;overflow:hidden;width:62px; height:80px; line-height:10px; margin-right:1px; float:left; text-align:center;}</style>
+<style>#socialbuttonnav li{list-style:none;overflow:hidden;margin:0 auto;background:none;overflow:hidden;width:62px; height:70px; line-height:10px; margin-right:1px; float:left; text-align:center;}</style>
 <ul id="socialbuttonnav">
+<li><!-- Facebook like--><iframe src="//www.facebook.com/plugins/like.php?href='.urlencode(get_permalink($post->ID)).
+'&amp;send=false&amp;layout=box_count&amp;width=44&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=90&amp;appId=220231561331594" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:44px; height:90px;" allowTransparency="true"></iframe></li>
+<li><!-- Google plus one--><g:plusone size="tall" count="true"></g:plusone></li>
+<li><!-- Twitter--><a name="twitter_share" data-count="vertical" href="http://twitter.com/share" class="twitter-share-button" >Tweet</a></li>
+<li><!-- linkedin--><div><script type="in/share" data-counter="top"></script></div></li>
+<li><!-- stumbleupon--><div><script src="http://www.stumbleupon.com/hostedbadge.php?s=5"></script></div></li>
 <li><!-- Pinterest like--> <a href="http://pinterest.com/pin/create/button/?url='.urlencode(get_permalink($post->ID)).
 '&media='.pinterest_image().'" class="pin-it-button" count-layout="vertical">Pin It</a></li>
-<li><!-- Google plus one--><g:plusone size="tall" count="true"></g:plusone></li>
-<li><!-- Facebook like--><iframe src="//www.facebook.com/plugins/like.php?href='.urlencode(get_permalink($post->ID)).
-'&amp;send=false&amp;layout=box_count&amp;width=65&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=90&amp;appId=220231561331594" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:65px; height:90px;" allowTransparency="true"></iframe></li>
-<li><!-- Facebook share--><a name="fb_share" type="box_count" href="http://www.facebook.com/sharer.php">Share</a></li>
-<li><!-- Twitter--><a name="twitter_share" data-count="vertical" href="http://twitter.com/share" class="twitter-share-button" >Tweet</a></li>
-<li><!-- Digg--><a class="DiggThisButton DiggMedium" href='.urlencode(get_permalink($post->ID)).'&amp;title='.urlencode(get_the_title()).'></a></li>
 </ul>';
 }
 return $content;

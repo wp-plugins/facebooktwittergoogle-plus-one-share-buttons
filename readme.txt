@@ -70,3 +70,8 @@ For FAQs and Bug report,refer to <a rel="follow" title="Facebook,Twitter,Google 
 *NEW: Smart Pinterest button added 
 *Remove Linkedin and Stumbleupon button(rarely used and affect page load time)
 
+=V1.3.1 -15.09.2012=
+
+*Add Linkedin and Stumbleupon button(rarely used and affect page load time)
+*Remove Facebook Share button and Digg button, no longer supported by official
+

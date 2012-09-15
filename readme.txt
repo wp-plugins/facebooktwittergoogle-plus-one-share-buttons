@@ -1,6 +1,6 @@
 === Facebook,Twitter,Google plus one Share Buttons ===
 Contributors: Jeriff Cheng
-Tags: pinterest,facebook,twitter,google +1,google plus one,digg
+Tags: pinterest,facebook,twitter,google +1,google plus one,Linkedin,Stumbleupon
 Requires at least: 2.8+
 Tested up to: 3.3.1
 Stable tag: trunk

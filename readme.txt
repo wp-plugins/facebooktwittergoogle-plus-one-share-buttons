@@ -6,7 +6,7 @@ Tested up to: 3.3.1
 Stable tag: trunk
 
 == Description ==
-Facebook Like,Twitter,Google +,Pinterest,Linkedin,StumbleuponButtons after post contents.
+Facebook Like, Twitter, Google +, Pinterest, Linkedin, Stumbleupon Buttons after post contents.
 
 <strong>Features:<strong>
 

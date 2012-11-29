@@ -18,7 +18,12 @@ Facebook Like, Twitter, Google +, Pinterest, Linkedin, Stumbleupon Buttons after
 
 For more information,refer to <a title="Facebook,Twitter,Google plus one Share Buttons by Jeriff Cheng" rel="follow" href="http://www.92app.com/wordpress-plugins/facebook-twitter-google-plus-one-share-buttons" target="_blank">Facebook,Twitter,Google plus one Share Buttons Doc </a>
 
-My blog:<a rel="follow" href="http://www.92app.com" target="_blank">www.92app.com</a>
+My Blog:<a rel="follow" href="http://www.92app.com" target="_blank">www.92app.com</a>
+Google +: <a rel="follow" href="http://plus.google.com/105297477957946180215" target="_blank">Google+</a>
+Twitter: <a rel="follow" href="https://twitter.com/jeriffcheng" rel="me" target="_blank">Twitter</a>
+Facebook: <a rel="follow" href="http://www.facebook.com/hschengyongtao" rel="me" target="_blank">Facebook</a>
+Linkedin: <a rel="follow" href="http://www.linkedin.com/in/jeriff" rel="me" target="_blank">Linkedin</a>
+FriendFeed: <a rel="follow" title="FriendFeed" href="http://friendfeed.com/jeriffcheng" rel="me" target="_blank">FriendFeed</a>
 
 <h4>Other WordPress Plugins I created:</h4>
 <ul>
